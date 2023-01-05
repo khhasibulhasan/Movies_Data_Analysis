@@ -1,5 +1,7 @@
 <h1 align="center">Analysis of Movie Data</h1>
-<a href="[https://github.com/khhasibulhasan/Movies_Data_Analysis/blob/main/movie_data_analysis.ipynb]/" target="_blank">Python Codes in Jupyter Notebook</a>
+<a href="[]/" target="_blank">Python Codes in Jupyter Notebook</a>
+
+<a href="https://github.com/khhasibulhasan/Movies_Data_Analysis/blob/main/movie_data_analysis.ipynb" target="_blank">"Python Codes in Jupyter Notebook"</a>
 
 <h3>Introduction</h3>
 <p>This project is related to basic data analysis which involved with a clean data set. The plan is to use the data and take some actions based on analysis so I will try to find the movies for the next the holiday night that best meets my preferences.</p>
