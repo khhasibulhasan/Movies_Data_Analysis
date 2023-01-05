@@ -45,5 +45,5 @@
 <p>Steps cover basic panels, comments, and this project, like importing from CSP files, a very fast inspection and mixing and slicing, analyzing columns, filtering data frames with one or many conditions. </p>
 
 
-<h3>Courtesy</h3>
+<h3>Guidance from</h3>
 <p>Alexander Hagmann</p>
